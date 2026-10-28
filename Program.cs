@@ -8,7 +8,7 @@ class Program
         Console.WriteLine("--Animal Information Entry--");
         
         // 1. Prompt and read the animal name (string)
-        Console.Write("Enter animal name: Dog ");
+        Console.Write("Enter animal name: ");
         string animalName = Console.ReadLine();
 
         // 2. Prompt and read the count of animals (int)
